@@ -8,5 +8,9 @@ int mian()
 }
 =======
 dfsdfdfdsfsf
+<<<<<<< HEAD
 sdfddsf
 >>>>>>> master
+=======
+nclfsjdfdsjfsdfjsdlfjdlssdfddsf
+>>>>>>> branch1
